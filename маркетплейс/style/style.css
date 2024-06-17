@@ -204,3 +204,13 @@
     font-family: "Amatic SC", sans-serif;
     font-weight: 700;
 }
+
+.header_stop{
+    font-family: "Amatic SC", sans-serif;
+}
+
+.logo_header{
+    height: 100px;
+    position: absolute;
+    right: 100px;
+}
